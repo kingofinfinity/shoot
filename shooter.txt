@@ -1,6 +1,2 @@
-
-
-public void hell(){
-   print("PARADISESS");
-   print("HELLLLLLL");
+    print("HELLLLLLL");
 }
