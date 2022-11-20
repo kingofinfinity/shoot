@@ -1,2 +1,6 @@
-    print("HELLLLLLL");
+
+
+public void hell(){
+   print("PARADISESS");
+   print("HELLLLLLL");
 }
